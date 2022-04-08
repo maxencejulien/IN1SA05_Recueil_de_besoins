@@ -1,0 +1,36 @@
+main li {
+    font-size: 15px;
+    margin: 8px;
+}
+
+main > div {
+    display: flex;
+}
+
+section {
+    display: flex;
+    align-items: center;
+}
+
+section img {
+    width: 50%  ;
+}
+
+
+section {
+    padding: 20px;
+}
+
+section > div {
+    flex: 1;
+}
+
+#section_logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+section > div > p {
+    font-size: 15px;
+}

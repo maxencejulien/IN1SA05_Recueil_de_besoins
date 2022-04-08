@@ -1,0 +1,21 @@
+main ol {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+li {
+    font-size: 15px;
+    margin: 8px;
+}
+
+main div {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+main img {
+    height: 200px;
+}

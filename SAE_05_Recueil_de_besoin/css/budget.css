@@ -1,0 +1,25 @@
+table {
+    width: 100%;
+    table-layout: fixed;
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+
+
+th, td {
+    padding: 15px;
+    border: solid 3px #11bda1;
+    font-size: 15px;
+}
+
+
+caption {
+    text-align: left;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+thead {
+    background-color: #11bda1;
+    opacity: 0.5;
+}

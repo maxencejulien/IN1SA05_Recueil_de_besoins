@@ -1,0 +1,23 @@
+table {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 20px;
+    vertical-align: top;
+}
+
+h4 {
+    padding-top: 10px;
+    border-top: solid 1px black;
+}
+
+.elementG {
+    border-right: solid 1px black;
+}
+
+h4 {
+    font-style: italic;
+}
